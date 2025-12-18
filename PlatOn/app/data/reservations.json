@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "client": "Bernard",
+        "persons": 4,
+        "time": "20:00",
+        "assigned": false
+    },
+    {
+        "id": 2,
+        "client": "Dubois",
+        "persons": 6,
+        "time": "20:30",
+        "assigned": false
+    },
+    {
+        "id": 3,
+        "client": "Lefebvre",
+        "persons": 3,
+        "time": "21:00",
+        "assigned": false
+    },
+    {
+        "id": 4,
+        "client": "Moreau",
+        "persons": 2,
+        "time": "21:30",
+        "assigned": false
+    }
+]
